@@ -1,0 +1,25 @@
+.inboxLink{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.inboxButton {
+    width: 249px;
+    height: 37px;
+    background: #8FA7FC;
+    border-radius: 10px;
+    border: none;
+    border: none;
+    font-weight: bold;
+    font-size: 18px;
+}
+.text {
+    transform: translate(0em, -0.5em);
+}
+.inboxButton:hover {
+    opacity: 1;
+    transition: 0.8s;
+    background-color:#7487CD;
+}
+
+

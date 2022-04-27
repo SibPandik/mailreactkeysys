@@ -1,0 +1,26 @@
+.oneMessage {
+    height: 45px;
+    background: #FEFEFE;
+    margin-right: 1em;
+    margin-left: 16px;
+    border-radius: 7px;
+    transform: translate(0em, 0.9em);
+    margin-top: 17px;
+}
+
+.Theme {
+    font-weight: bold;
+    font-size: 18px;
+    float: left;
+    margin-right: 10px;
+    margin-left: 10px;
+    transform: translate(0em, 0.5em);
+}
+
+.TextMes {
+    font-size: 18px;
+    transform: translate(0em, 0.5em);
+    margin-left: 130px;
+    padding-left: 10px;
+    border-left:1px solid gray;
+}

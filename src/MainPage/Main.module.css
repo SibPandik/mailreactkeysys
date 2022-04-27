@@ -1,0 +1,25 @@
+.appWrapper {
+
+
+}
+
+.header {
+    background-color: white;
+}
+
+.navigation {
+    float: left;
+    background-color: white;
+
+}
+
+.allMails {
+    background-color: white;
+}
+
+.openModule {
+
+    background: white;
+    margin: 10px 20px;
+    padding: 20px;
+}

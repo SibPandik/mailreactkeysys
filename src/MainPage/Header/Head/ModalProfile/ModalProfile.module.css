@@ -1,0 +1,23 @@
+.modalProfile {
+    position: fixed;
+    top: 47%;
+    left: 63%;
+    transform: translate(3%, -170%);
+    background-color: white;
+    padding: 20px;
+    z-index: 1000;
+    border-radius: 12px;
+    width: 20%;
+    height: 20%;
+    border: 2px solid #7487CD;
+    box-shadow: 7px 7px 9px rgba(0, 0, 0, 0.15);
+}
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1000;
+
+}

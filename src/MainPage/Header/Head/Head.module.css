@@ -1,0 +1,36 @@
+.head {
+    display: grid;
+    grid-template-areas: "t l";
+    grid-template-columns: 12fr 1fr;
+    background-color: #94ABFF;
+    margin: 10px 1.5% 20px 15px;
+    height: 53px;
+    border-radius: 24px;
+    box-shadow: 7px 7px 9px rgba(0, 0, 0, 0.25);
+}
+.text {
+    grid-area: t;
+    margin-left: 96px;
+    font-weight: bold;
+    font-size: 40px;
+    transform: translate(-0.15em, -1.01em);
+    color: #ffffff;
+}
+.avatar {
+    margin-top: 6px;
+    float: right;
+    margin-right: 60px;
+    border: none;
+    background: #94ABFF;
+    border-radius: 50%;
+}
+.pic {
+    width: 39px;
+}
+.contLogo {
+    grid-area: l;
+
+}
+.pic:hover {
+    opacity: 0.7;
+}
